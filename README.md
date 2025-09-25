@@ -8,7 +8,7 @@ Dự đoán giá cổ phiếu là một bài toán khó và phức tạp do th�
 
 ## Dữ liệu
 
-* Nguồn dữ liệu: **Yahoo Finance API** (`^GSPC`)
+* Nguồn dữ liệu: **Yahoo Finance API**
 * Thời gian: từ **01/01/2000 đến 30/11/2024**
 * Dữ liệu bao gồm: giá mở cửa, đóng cửa, cao nhất, thấp nhất và khối lượng giao dịch.
 * Dữ liệu được tiền xử lý: loại bỏ giá trị rỗng, chuẩn hóa về [0,1], chia thành tập Train (70%), Validation (15%), Test (15%).
