@@ -1,6 +1,7 @@
 # Stock Price Prediction using Deep Learning
 
-Dự Đoán Giá Trị Tương Lai Của Cổ Phiếu Bằng Các Phương Pháp Học Sâu
+-Dự Đoán Giá Trị Tương Lai Của Cổ Phiếu Bằng Các Phương Pháp Học Sâu
+-File .ipynb là nội dung của project
 
 ## Giới thiệu
 
